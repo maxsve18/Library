@@ -1,0 +1,27 @@
+
+Maven Goals jag har använt mig av:
+
+compile
+Kompilerar koden och skapar sedan target katalogen.
+
+clean
+Rensar projektet och tar bort target katalogen.
+
+test
+Kör testerna och använder sig av ett test ramverk.
+
+package
+Packeterar själva projektet. Kompilerar, testar och skapar en jar-fil i target mappen.
+
+site
+Genererar dokumentation för projektet genom javadoc.
+
+
+sunfire-report:report
+Genererar test resultat till ett htlm format.
+
+
+
+
+
+

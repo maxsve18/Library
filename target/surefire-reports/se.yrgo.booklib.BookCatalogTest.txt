@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: se.yrgo.booklib.BookCatalogTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.110 s -- in se.yrgo.booklib.BookCatalogTest
